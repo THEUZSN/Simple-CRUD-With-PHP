@@ -27,7 +27,7 @@ Este é um projeto de lista de tarefas (To-Do List) desenvolvido utilizando PHP,
 4. Importe o banco de dados:
    - Abra `phpMyAdmin`
    - Crie um banco chamado `todo_list`
-   - Importe o arquivo `database.sql`
+   - Importe o arquivo `itens.sql`
 5. Atualize o arquivo de configuração do banco (`php/config.php`) com suas credenciais.
 6. Acesse o sistema no navegador:
    ```
