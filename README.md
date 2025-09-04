@@ -26,7 +26,7 @@ Este é um projeto de lista de tarefas (To-Do List) desenvolvido utilizando PHP,
 3. Copie os arquivos para a pasta `htdocs` do XAMPP.
 4. Importe o banco de dados:
    - Abra `phpMyAdmin`
-   - Crie um banco chamado `todo_list`
+   - Crie um banco chamado `todo_db`
    - Importe o arquivo `itens.sql`
 5. Atualize o arquivo de configuração do banco (`php/config.php`) com suas credenciais.
 6. Acesse o sistema no navegador:
