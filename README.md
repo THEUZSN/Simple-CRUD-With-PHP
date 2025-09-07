@@ -3,11 +3,7 @@
 Este é um projeto de lista de tarefas (To-Do List) desenvolvido utilizando PHP, MySQL, AJAX e jQuery. O sistema permite adicionar, editar, excluir e marcar tarefas como concluídas.
 
 ## Tecnologias Utilizadas
-- **HTML, CSS**: Interface do usuário
-- **PHP**: Backend para manipulação dos dados
-- **MySQL (phpMyAdmin)**: Banco de dados
-- **XAMPP**: Servidor local
-- **AJAX & jQuery**: Atualização assíncrona dos dados
+<img src="https://skillicons.dev/icons?i=html,css,js,php,jquery" />
 
 ## Funcionalidades
 - Criar tarefas
